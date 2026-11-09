@@ -1,0 +1,3 @@
+User-agent: *
+# PREVIA - trocar por "Allow: /" + Sitemap quando o dominio oficial entrar
+Disallow: /
